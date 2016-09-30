@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/thomas-ye/yaf-phpport.png?label=ready&title=Ready)](https://waffle.io/thomas-ye/yaf-phpport)
 #YAF ported to php to extend portability
 
 [YAF](http://pecl.php.net/package/yaf) is a php framework written in C and available as an extension.
